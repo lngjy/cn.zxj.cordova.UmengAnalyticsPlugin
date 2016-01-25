@@ -19,7 +19,7 @@ import com.umeng.analytics.social.UMPlatformData;
 import com.umeng.analytics.social.UMPlatformData.GENDER;
 import com.umeng.analytics.social.UMPlatformData.UMedia;
 
-import your.package.name.R;
+import com.itxc.woo.R;
 
 public class UmengAnalyticsPlugin extends CordovaPlugin {
 	private static Context mContext;
